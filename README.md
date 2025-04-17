@@ -3,7 +3,7 @@
 Este projeto é um sistema de reembolso desenvolvido em **HTML5**, **CSS3** e **JavaScript**. O objetivo é facilitar o registro de despesas, formatação de valores em BRL e atualização dinâmica de totais, demonstrando boas práticas de desenvolvimento de interfaces web interativas e responsivas.
 
 ---
-
+ 
 ## Visão Geral
 
 - **HTML5**: Estrutura semântica com uso de `<form>`, `<fieldset>`, `<legend>`, `<section>` e `<aside>` para organização clara.  
